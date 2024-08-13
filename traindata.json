@@ -1,0 +1,268 @@
+[
+    {
+        "context": "The financial information reported in this document is based on the unaudited interim condensed consolidated financial statements for the quarter and six-month period ended April 30, 2024 and is prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB), unless otherwise indicated. IFRS represent Canadian generally accepted accounting principles (GAAP). All amounts are presented in Canadian dollars.",
+        "qas": [
+            {
+                "question": "What financial reporting standards were used in the report?",
+                "answer": "International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB)."
+            },
+            {
+                "question": "What period do the financial statements cover?",
+                "answer": "The quarter and six-month period ended April 30, 2024."
+            },
+            {
+                "question": "In what currency are the amounts presented?",
+                "answer": "All amounts are presented in Canadian dollars."
+            }
+        ]
+    },
+    {
+        "context": "For the second quarter of 2024, National Bank is reporting net income of $906 million, up 9% from $832 million in the second quarter of 2023. Second-quarter diluted earnings per share stood at $2.54 compared to $2.34 in the second quarter of 2023. These increases were driven by total revenue growth in all of the business segments, partly offset by higher non-interest expenses and higher provisions for credit losses.",
+        "qas": [
+            {
+                "question": "What was the net income for the second quarter of 2024?",
+                "answer": "$906 million."
+            },
+            {
+                "question": "How did the net income for the second quarter of 2024 compare to the same quarter in 2023?",
+                "answer": "Net income increased by 9% from $832 million in the second quarter of 2023 to $906 million in 2024."
+            },
+            {
+                "question": "What was the diluted earnings per share for the second quarter of 2024?",
+                "answer": "$2.54."
+            }
+        ]
+    },
+    {
+        "context": "For the six-month period ended April 30, 2024, the Bank’s net income totaled $1,828 million, up 7% from $1,708 million in the same period of 2023. First-half diluted earnings per share stood at $5.13 compared to $4.81 in the first half of 2023.",
+        "qas": [
+            {
+                "question": "What was the net income for the six-month period ended April 30, 2024?",
+                "answer": "$1,828 million."
+            },
+            {
+                "question": "What was the diluted earnings per share for the first half of 2024?",
+                "answer": "$5.13."
+            },
+            {
+                "question": "How did the net income for the first half of 2024 compare to the same period in 2023?",
+                "answer": "Net income increased by 7% from $1,708 million in 2023 to $1,828 million in 2024."
+            }
+        ]
+    },
+    {
+        "context": "Personal and Commercial: Net income totaled $311 million in the second quarter of 2024 versus $320 million in the second quarter of 2023, a 3% decrease that was mainly due to higher provisions for credit losses. Income before provisions for credit losses and income taxes totaled $519 million in the second quarter of 2024, up 9% from $478 million in the second quarter of 2023.",
+        "qas": [
+            {
+                "question": "What was the net income for the Personal and Commercial segment in the second quarter of 2024?",
+                "answer": "$311 million."
+            },
+            {
+                "question": "How did the net income for the Personal and Commercial segment change compared to the second quarter of 2023?",
+                "answer": "Net income decreased by 3% from $320 million in the second quarter of 2023 to $311 million in 2024."
+            },
+            {
+                "question": "What was the income before provisions for credit losses and income taxes for the Personal and Commercial segment in the second quarter of 2024?",
+                "answer": "$519 million."
+            }
+        ]
+    },
+    {
+        "context": "Wealth Management: Net income totaled $205 million in the second quarter of 2024, a 15% increase from $178 million in the second quarter of 2023. Second-quarter total revenues amounted to $683 million compared to $617 million in second-quarter 2023.",
+        "qas": [
+            {
+                "question": "What was the net income for the Wealth Management segment in the second quarter of 2024?",
+                "answer": "$205 million."
+            },
+            {
+                "question": "How did the net income for the Wealth Management segment change compared to the second quarter of 2023?",
+                "answer": "Net income increased by 15% from $178 million in the second quarter of 2023 to $205 million in 2024."
+            },
+            {
+                "question": "What were the total revenues for the Wealth Management segment in the second quarter of 2024?",
+                "answer": "$683 million."
+            }
+        ]
+    },
+    {
+        "context": "Financial Markets: Net income totaled $322 million in the second quarter of 2024, up 20% from $268 million in the second quarter of 2023. Second-quarter total revenues on a taxable equivalent basis amounted to $766 million, up $94 million or 14%.",
+        "qas": [
+            {
+                "question": "What was the net income for the Financial Markets segment in the second quarter of 2024?",
+                "answer": "$322 million."
+            },
+            {
+                "question": "How did the net income for the Financial Markets segment change compared to the second quarter of 2023?",
+                "answer": "Net income increased by 20% from $268 million in the second quarter of 2023 to $322 million in 2024."
+            },
+            {
+                "question": "What were the total revenues for the Financial Markets segment in the second quarter of 2024?",
+                "answer": "$766 million."
+            }
+        ]
+    },
+    {
+        "context": "Capital Management: As at April 30, 2024, the Common Equity Tier 1 (CET1) capital ratio under Basel III stood at 13.2%, down from 13.5% as at October 31, 2023. The Basel III leverage ratio was 4.4%, stable compared to October 31, 2023.",
+        "qas": [
+            {
+                "question": "What was the CET1 capital ratio as of April 30, 2024?",
+                "answer": "13.2%."
+            },
+            {
+                "question": "How did the CET1 capital ratio change from October 31, 2023 to April 30, 2024?",
+                "answer": "The CET1 capital ratio decreased from 13.5% to 13.2%."
+            },
+            {
+                "question": "What was the Basel III leverage ratio as of April 30, 2024?",
+                "answer": "4.4%."
+            }
+        ]
+    },
+    {
+        "context": "Dividends: On May 28, 2024, the Board of Directors declared regular dividends on the various series of first preferred shares and a dividend of $1.10 per common share, up 4 cents or 4%, payable on August 1, 2024 to shareholders of record on June 24, 2024.",
+        "qas": [
+            {
+                "question": "When was the dividend declared?",
+                "answer": "May 28, 2024."
+            },
+            {   
+                "question": "What was the amount of the dividend per common share?",
+                "answer": "$1.10 per common share."
+            },
+            {
+                "question": "When is the dividend payable?",
+                "answer": "August 1, 2024."
+            },
+            {
+                "question": "Who is eligible to receive the dividend?",
+                "answer": "Shareholders of record on June 24, 2024."
+            }
+        ]
+    },
+    {
+        "context": "The financial information reported in this document is based on the unaudited interim condensed consolidated financial statements for the quarter and six-month period ended April 30, 2024, and is prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB), unless otherwise indicated. IFRS represent Canadian generally accepted accounting principles (GAAP). All amounts are presented in Canadian dollars.",
+        "qas": [
+          {
+            "question": "What financial reporting standards are used in the quarterly report?",
+            "answer": "The report is prepared in accordance with International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB)."
+          } 
+        ]
+      },
+      {
+        "context": "For the second quarter of 2024, National Bank is reporting net income of $906 million, up 9% from $832 million in the second quarter of 2023. Second-quarter diluted earnings per share stood at $2.54 compared to $2.34 in the second quarter of 2023.",
+        "qas": [
+          {
+            "question": "What was the net income reported for the second quarter of 2024?",
+            "answer": "The net income reported for the second quarter of 2024 was $906 million."
+          }
+        ]
+      },
+      {
+        "context": "For the six-month period ended April 30, 2024, the Bank’s net income totaled $1,828 million, up 7% from $1,708 million in the same period of 2023. First-half diluted earnings per share stood at $5.13 compared to $4.81 in the first half of 2023.",
+        "qas": [
+          {
+            "question": "What was the net income for the six-month period ended April 30, 2024?",
+            "answer": "The net income for the six-month period ended April 30, 2024, was $1,828 million."
+          }
+        ]
+      },
+      {
+        "context": "Personal and Commercial: Net income totaled $311 million in the second quarter of 2024 versus $320 million in the second quarter of 2023, a 3% decrease that was mainly due to higher provisions for credit losses.",
+        "qas": [
+          {
+            "question": "What was the net income for the Personal and Commercial segment in the second quarter of 2024?",
+            "answer": "The net income for the Personal and Commercial segment in the second quarter of 2024 was $311 million."
+          }
+        ]
+      },
+      {
+        "context": "Wealth Management: Net income totaled $205 million in the second quarter of 2024, a 15% increase from $178 million in the second quarter of 2023.",
+        "qas": [
+          {
+            "question": "How much net income did Wealth Management generate in the second quarter of 2024?",
+            "answer": "Wealth Management generated $205 million in net income in the second quarter of 2024."
+          }
+        ]
+      },
+      {
+        "context": "Financial Markets: Net income totaled $322 million in the second quarter of 2024, up 20% from $268 million in the second quarter of 2023.",
+        "qas": [
+          {
+            "question": "What was the net income for Financial Markets in the second quarter of 2024?",
+            "answer": "The net income for Financial Markets in the second quarter of 2024 was $322 million."
+          }
+        ]
+      },
+      {
+        "context": "U.S Specialty Finance and International: Net income totaled $163 million in the second quarter of 2024, up 27% from $128 million in the second quarter of 2023.",
+        "qas": [
+          {
+            "question": "What was the net income for U.S Specialty Finance and International in the second quarter of 2024?",
+            "answer": "The net income for U.S Specialty Finance and International in the second quarter of 2024 was $163 million."
+          }
+        ]
+      },
+      {
+        "context": "Capital Management: As of April 30, 2024, the Common Equity Tier 1 (CET1) capital ratio under Basel III stood at 13.2%, down from 13.5% as of October 31, 2023.",
+        "qas": [
+          {
+            "question": "What was the CET1 capital ratio as of April 30, 2024?",
+            "answer": "The CET1 capital ratio as of April 30, 2024, was 13.2%."
+          }
+        ]
+      },
+      {
+        "context": "Dividends: On May 28, 2024, the Board of Directors declared regular dividends on the various series of first preferred shares and a dividend of $1.10 per common share, up 4 cents or 4%, payable on August 1, 2024, to shareholders of record on June 24, 2024.",
+        "qas": [
+          {
+            "question": "What dividend was declared by the Board of Directors on May 28, 2024?",
+            "answer": "A dividend of $1.10 per common share was declared on May 28, 2024."
+          }
+        ]
+      },
+      {
+        "context": "Market Environment: The uncertain macroeconomic environment continues to impact the bank's performance. However, strong financial results for the second quarter of 2024 reflect disciplined execution of the bank's strategy across business segments.",
+        "qas": [
+          {
+            "question": "How is the macroeconomic environment affecting the bank's performance?",
+            "answer": "The uncertain macroeconomic environment continues to impact the bank's performance."
+          }
+        ]
+      },
+      {
+        "context": "Operational Highlights: The bank achieved significant revenue growth across all business segments, with notable increases in Wealth Management and Financial Markets.",
+        "qas": [
+          {
+            "question": "Which segments of the bank saw significant revenue growth?",
+            "answer": "Wealth Management and Financial Markets saw significant revenue growth."
+          }
+        ]
+      },
+      {
+        "context": "Risk Management: The bank maintains a prudent approach to capital, credit, and cost management, which is essential in the current uncertain economic environment.",
+        "qas": [
+          {
+            "question": "What approach is the bank taking to risk management?",
+            "answer": "The bank maintains a prudent approach to capital, credit, and cost management."
+          }
+        ]
+      },
+      {
+        "context": "Outlook: The bank remains committed to generating long-term value for its shareholders while navigating the challenges of an uncertain economic environment.",
+        "qas": [
+          {
+            "question": "What is the bank's outlook for the future?",
+            "answer": "The bank is committed to generating long-term value for its shareholders while navigating economic challenges."
+          }
+        ]
+      },
+      {
+        "context": "Non-GAAP and Other Financial Measures: The bank uses several non-GAAP financial measures when assessing its results and measuring overall performance. These measures do not have standardized meanings under GAAP and may not be comparable to similar measures used by other companies.",
+        "qas": [
+          {
+            "question": "Does the bank use non-GAAP financial measures?",
+            "answer": "Yes, the bank uses non-GAAP financial measures."
+          }
+        ]
+      }
+]
